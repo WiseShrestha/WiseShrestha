@@ -1,50 +1,72 @@
 <div align="center">
 
-# SHRESTH GUPTA
+<a href="https://wiseshrestha.github.io/GuptiOS/">
+  <img src="assets/guptios-welcome.svg" width="100%" alt="GuptiOS desktop: welcome to Shresth Gupta’s personal desktop. Computer Science and Business at KAIST." />
+</a>
 
-**Building ideas into experiences.**
+<sub>PERSONAL EDITION &nbsp; · &nbsp; A LITTLE CORNER OF THE INTERNET</sub>
 
-Thoughtful design. Clear execution. Always learning.
+<br><br>
 
-[Selected work](#selected-work) &nbsp; · &nbsp; [Approach](#approach) &nbsp; · &nbsp; [GitHub](https://github.com/WiseShrestha)
+[🖥️ Open GuptiOS](https://wiseshrestha.github.io/GuptiOS/) &nbsp;&nbsp; · &nbsp;&nbsp; [📁 Explore projects](#-projects) &nbsp;&nbsp; · &nbsp;&nbsp; [👤 About me](#-about-me)
 
 </div>
 
 <br>
 
-## The work
+### 👤 &nbsp; About Me
 
-I enjoy turning ideas into useful, considered digital experiences—from playful interfaces to tools that solve everyday problems. My work explores the intersection of product thinking, design and engineering.
+> **Shresth Gupta** &nbsp; / &nbsp; Computer Science + Business at KAIST  
+> Curious about the places where code, numbers, and business meet.
+
+I enjoy exploring quantitative finance and entrepreneurship, and building things along the way—from machine learning experiments to playful web experiences. Away from the keyboard, you might find me playing guitar, gaming, reading, or planning the next trip.
+
+<details>
+<summary>📄 &nbsp; Open a little more about me</summary>
+<br>
+
+I like getting into the details: understanding a dataset, an algorithm, or the thinking behind a business decision. GuptiOS is my personal desktop for collecting the work and interests I pick up along the way.
+
+</details>
 
 <br>
 
-## Selected work
+### 📁 &nbsp; Projects
 
-**[CampusSplit](https://github.com/WiseShrestha/campussplit)**  
-A student-focused prototype for splitting expenses and settling reimbursements on Solana Devnet.
+`C:\GuptiOS\Projects` &nbsp; · &nbsp; Selected work, built out of curiosity
 
-**[Bookinator](https://github.com/WiseShrestha/Bookinator)**  
-A book discovery experience that helps readers find a half-remembered story through a series of questions.
-
-**[GuptiOS](https://github.com/WiseShrestha/GuptiOS)**  
-A personal portfolio inspired by retro desktop interfaces, built with HTML, CSS and JavaScript.
-
-**[HelpLoop](https://github.com/WiseShrestha/HelpLoop)**  
-A study-help exchange concept for KAIST students, built around helping and meeting others.
+| &nbsp; | Project | What's inside |
+|:---:|:---|:---|
+| 🧠 | **[MNIST Project](https://github.com/WiseShrestha/MNIST_Project)** | A PyTorch neural network for recognizing handwritten digits. |
+| 💸 | **[CampusSplit](https://github.com/WiseShrestha/campussplit)** | A student-focused prototype for splitting expenses on Solana Devnet. |
+| 📚 | **[Bookinator](https://github.com/WiseShrestha/Bookinator)** | A question-led experience for finding a half-remembered book. |
+| 🖥️ | **[GuptiOS](https://github.com/WiseShrestha/GuptiOS)** | My personal portfolio, inspired by a retro desktop. |
+| 🤝 | **[HelpLoop](https://github.com/WiseShrestha/HelpLoop)** | A study-help exchange concept for KAIST students. |
 
 <br>
 
-## Approach
+### 💾 &nbsp; Toolbox
 
-Make it useful. Make it intuitive. Pay attention to the details.
+```text
+C:\GuptiOS> what-am-i-exploring
 
-**Exploring** &nbsp; Product design · Web development · Creative interfaces · Applied problem solving  
-**Working with** &nbsp; JavaScript · TypeScript · HTML & CSS · Vite · Solana
+  BUILDING      JavaScript  ·  TypeScript  ·  HTML  ·  CSS
+  EXPLORING     Python  ·  PyTorch  ·  Solana  ·  Product design
+  INTERESTS     Quantitative finance  ·  Entrepreneurship
+```
+
+<br>
+
+### ✉️ &nbsp; Find me
+
+Pull up a chair and explore the full desktop: **[Launch GuptiOS ↗](https://wiseshrestha.github.io/GuptiOS/)**
 
 <br>
 
 ---
 
 <div align="center">
-<sub>SHRESTH GUPTA &nbsp; / &nbsp; BUILT WITH INTENTION</sub>
+
+<sub>🟢 &nbsp; GUPTIOS &nbsp; · &nbsp; PERSONAL EDITION &nbsp; · &nbsp; MADE FOR THE CURIOUS</sub>
+
 </div>
