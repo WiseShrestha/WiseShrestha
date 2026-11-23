@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 370" role="img" aria-labelledby="title desc">
+<title id="title">GuptiOS — Shresth Gupta</title>
+<desc id="desc">A retro desktop window introducing Shresth Gupta, Computer Science and Business at KAIST.</desc>
+<rect width="900" height="370" fill="#183a37"/>
+<path d="M0 252 Q180 166 342 236 T630 224 T900 222 V370 H0Z" fill="#214941"/>
+<path d="M0 302 Q180 220 366 292 T670 274 T900 265 V370 H0Z" fill="#2c5348"/>
+<g transform="translate(32 38)">
+<rect x="12" y="3" width="31" height="25" fill="#171c1a"/><rect x="14" y="5" width="27" height="20" fill="#d9ddce"/><rect x="17" y="8" width="21" height="13" fill="#3f7067"/><rect x="24" y="28" width="7" height="5" fill="#d9ddce"/><rect x="19" y="33" width="18" height="3" fill="#d9ddce"/>
+<text x="27" y="54" text-anchor="middle" fill="#f4f1db" font-family="Arial,sans-serif" font-size="10">My Computer</text>
+<path d="M11 85 h14 l5 5 h16 v22 H11Z" fill="#2c2718"/><path d="M13 87 h11 l5 5 h15 v18 H13Z" fill="#e2c96f"/><path d="M12 95 h34 l-4 16 H12Z" fill="#f1dc88"/>
+<text x="28" y="128" text-anchor="middle" fill="#f4f1db" font-family="Arial,sans-serif" font-size="10">Projects</text>
+<path d="M15 155 h25 v32 H15Z" fill="#eeeede" stroke="#151d18" stroke-width="2"/><path d="M20 163 h15 M20 168 h15 M20 173 h12 M20 178 h14" stroke="#839080"/>
+<text x="28" y="203" text-anchor="middle" fill="#f4f1db" font-family="Arial,sans-serif" font-size="10">README.txt</text>
+</g>
+<rect x="119" y="35" width="711" height="270" fill="#101c19" opacity=".45"/>
+<rect x="112" y="28" width="711" height="270" fill="#c5c7bc" stroke="#111d18" stroke-width="2"/>
+<path d="M114 296 V30 H821" fill="none" stroke="#f7f8e9" stroke-width="2"/>
+<path d="M820 31 V295 H115" fill="none" stroke="#717a6c" stroke-width="2"/>
+<rect x="119" y="35" width="697" height="28" fill="#294a3c"/>
+<rect x="129" y="42" width="14" height="14" fill="#d8e0c9"/><path d="M131 44 h10 v7 h-10Z" fill="#668c78"/><path d="M134 54 h5" stroke="#34463b"/>
+<text x="152" y="54" fill="#fffdf0" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Welcome to GuptiOS</text>
+<g fill="#d6d9cb" stroke="#1c2b21"><rect x="747" y="40" width="18" height="18"/><rect x="768" y="40" width="18" height="18"/><rect x="789" y="40" width="18" height="18"/></g>
+<path d="M752 53 h8 M773 45 h8 v8 h-8Z M794 45 l8 8 m0-8 l-8 8" stroke="#28382d" fill="none" stroke-width="1.5"/>
+<rect x="119" y="64" width="697" height="226" fill="#fffef5"/>
+<rect x="119" y="64" width="171" height="226" fill="#e7ebdd"/>
+<rect x="145" y="88" width="119" height="82" fill="#d2ddc9" stroke="#9aa994"/>
+<rect x="174" y="103" width="58" height="43" fill="#273b34"/><rect x="178" y="107" width="50" height="35" fill="#6c9986"/><rect x="196" y="146" width="14" height="8" fill="#718574"/><rect x="188" y="154" width="30" height="4" fill="#718574"/>
+<text x="145" y="199" fill="#6c7b69" font-family="monospace" font-size="9" letter-spacing="1.2">YOU ARE EXPLORING</text>
+<text x="145" y="222" fill="#304b3b" font-family="Georgia,serif" font-size="22">Gupti<tspan font-style="italic">OS</tspan></text>
+<text x="145" y="244" fill="#72806c" font-family="Arial,sans-serif" font-size="10">Personal Edition</text>
+<text x="320" y="105" fill="#70806c" font-family="monospace" font-size="10" letter-spacing="1.5">SHRESTH GUPTA / PERSONAL DESKTOP</text>
+<text x="320" y="153" fill="#263f31" font-family="Georgia,serif" font-size="39">Welcome to my desktop.</text>
+<text x="320" y="184" fill="#556659" font-family="Arial,sans-serif" font-size="14">Computer Science + Business at KAIST</text>
+<text x="320" y="209" fill="#6c786b" font-family="Arial,sans-serif" font-size="13">A space for work, ideas, and everything in between.</text>
+<rect x="320" y="237" width="155" height="29" fill="#dce5d2" stroke="#8b9d87"/><path d="M322 264 V239 H473" fill="none" stroke="#fff" /><text x="336" y="256" fill="#314a39" font-family="Arial,sans-serif" font-size="11">Start exploring  →</text>
+<text x="495" y="256" fill="#798775" font-family="monospace" font-size="10">Always a work in progress.</text>
+<rect x="0" y="331" width="900" height="39" fill="#c7c9bc"/>
+<path d="M0 332 H900" stroke="#f6f7e8" stroke-width="2"/>
+<rect x="9" y="338" width="82" height="24" fill="#c7c9bc" stroke="#7c8377"/><path d="M10 361 V339 H90" fill="none" stroke="#fffef0"/>
+<rect x="17" y="345" width="6" height="6" fill="#bc6856"/><rect x="24" y="345" width="6" height="6" fill="#86a26b"/><rect x="17" y="352" width="6" height="6" fill="#6c9ea2"/><rect x="24" y="352" width="6" height="6" fill="#d6b966"/>
+<text x="37" y="355" fill="#26372a" font-family="Arial,sans-serif" font-size="12" font-weight="bold">Start</text>
+<rect x="104" y="338" width="230" height="24" fill="#dfe2d4" stroke="#9a9f90"/><text x="117" y="354" fill="#38483b" font-family="Arial,sans-serif" font-size="11">▣  Welcome to GuptiOS</text>
+<text x="870" y="355" text-anchor="end" fill="#47584b" font-family="monospace" font-size="11">PERSONAL EDITION</text>
+</svg>
